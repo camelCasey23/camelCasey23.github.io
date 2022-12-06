@@ -1,1 +1,24 @@
-gem "minima"
+title: Thrown
+author: Casey L
+email: your-email@domain.com
+description: > 
+Thrown is a small decorating business that provides decor for all occasions.
+# social links
+twitter_username: GetThrown
+github_username:  GetThrown
+pinterest_username: GetThrown
+instagram_username: GetThrown
+
+
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+
+theme: minima
+
+
